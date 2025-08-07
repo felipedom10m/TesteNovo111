@@ -2,9 +2,10 @@
   "email": "teste@teste.com",
   "produto": "TesteNovo111",
   "upsells_comprados": [
-    1
+    1,
+    "Pudim"
   ],
-  "data": "2025-08-07T15:38:07.759Z",
-  "transacao_id": "test_886145",
+  "data": "2025-08-07T15:39:25.063Z",
+  "transacao_id": "test-card-1754581165063",
   "acesso_liberado": true
 }
